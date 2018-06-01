@@ -17,11 +17,32 @@ keypoints:
 ---
 Markdown is a markup language that got very popular in the web.
 You can have lists in Markdown
-Lists starts after an empty linr
+
+Lists starts after an empty line
 with lines where the first character is `-`, `+` or `*`,
 For example
 a list of fruits is
+
 - apple
 - banana
 - oranges
+
+you can use `+` for list and it doesn't matter for Jekyli
++ apple
++ banana
++ oranges
+
+You can have numbered list as well. For numbered list you start the line with a number followed by a dot. For example,
+
+1. Caroline's workshop
+2. Library Carpentry workshop
+3. Bring your lesson workshop
+
+You can add emphasis on some words or expressions by using '*' or '**' around the word or expression.
+'*' makes the text to be in italic,
+for example, *this is a italic text*,
+and '**' make the text to be in boldface,
+for example, **this is a boldface text**,
+
+For preformatted text, you use backtick.
 {% include links.md %}
