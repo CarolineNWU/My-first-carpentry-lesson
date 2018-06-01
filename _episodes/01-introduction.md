@@ -35,8 +35,8 @@ you can use `+` for list and it doesn't matter for Jekyli
 You can have numbered list as well. For numbered list you start the line with a number followed by a dot. For example,
 
 1. Caroline's workshop
-2. Library Carpentry workshop
-3. Bring your lesson workshop
+1. Library Carpentry workshop
+1. Bring your lesson workshop
 
 You can add emphasis on some words or expressions by using '*' or '**' around the word or expression.
 '*' makes the text to be in italic,
