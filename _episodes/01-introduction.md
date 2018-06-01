@@ -24,6 +24,8 @@ For example
 a list of fruits is
 
 - apple
+ - color green
+  - this is a fruit
 - banana
 - oranges
 
