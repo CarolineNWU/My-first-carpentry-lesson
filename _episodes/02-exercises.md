@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Exercise"
+title: "Exercise 1"
 teaching: 20
 exercises: 10
 questions:
