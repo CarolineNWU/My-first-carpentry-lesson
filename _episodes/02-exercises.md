@@ -12,7 +12,6 @@ keypoints:
 - "You use `-` to start a list."
 - "You use `![legend](/fig/file.jpg)` to insert a figure."
 ---
-
 This is our first exercise.
 
 > ## What is need in a exercise
