@@ -15,6 +15,7 @@ keypoints:
 - "You use `-` to start a list."
 - "You use `![legend](/fig/file.jpg)` to insert a figure."
 ---
+
 Markdown is a markup language that got very popular in the web.
 You can have lists in Markdown
 
