@@ -38,10 +38,10 @@ You can have numbered list as well. For numbered list you start the line with a 
 1. Library Carpentry workshop
 1. Bring your lesson workshop
 
-You can add emphasis on some words or expressions by using '*' or '**' around the word or expression.
-'*' makes the text to be in italic,
+You can add emphasis on some words or expressions by using `*` or `**` around the word or expression.
+`*` makes the text to be in italic,
 for example, *this is a italic text*,
-and '**' make the text to be in boldface,
+and `**` make the text to be in boldface,
 for example, **this is a boldface text**,
 
 For preformatted text, you use backtick.
