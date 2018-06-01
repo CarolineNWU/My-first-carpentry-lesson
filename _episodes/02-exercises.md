@@ -27,5 +27,10 @@ This is our first exercise.
 > > - one title
 > > - exercise body
 > > - solution to exercise
+> > ```{r}
+> > x + y
+> > ```
 > {: .solution}
 {: .challenge}
+
+
