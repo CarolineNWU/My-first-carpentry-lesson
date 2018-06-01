@@ -4,4 +4,8 @@ layout: reference
 
 ## Glossary
 
-FIXME
+repository
+: Group of files on GitHub
+Git
+: Version control system.
+
