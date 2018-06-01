@@ -27,7 +27,11 @@ a list of fruits is
  - color green
   - this is a fruit
 - banana
+ - yellow
+  - this is a fruit
 - oranges
+ - orange
+  - this is a fruit
 
 you can use `+` for list and it doesn't matter for Jekyli
 + apple
